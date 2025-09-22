@@ -1316,6 +1316,7 @@ security:
     directories:
       #write:
       #  - @e_rundir@
+      #  - @e_libdir@
       # /usr and /etc folders are added to read list to allow
       # file magic to be used.
       read:
